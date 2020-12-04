@@ -1,4 +1,5 @@
-# Tensorflow Face Detector
+# 📸 Tensorflow Face Detector
+This project is made by Tensorflow for building the face detector application. 
 
 ## Features
 Speed, run 60fps on a nvidia GTX1080 GPU.
