@@ -1,7 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# pylint: disable=C0103
-# pylint: disable=E1101
+#To interfere th video face of the user by the py file
 
 import sys
 import time
