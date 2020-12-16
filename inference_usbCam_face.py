@@ -1,7 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# pylint: disable=C0103
-# pylint: disable=E1101
+# To check and open usb cam face. we have created this file
 
 import sys
 import time
